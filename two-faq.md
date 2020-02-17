@@ -19,7 +19,7 @@ If one of 2 claims is invalid, rank it lower. If both are invalid, still do try 
 Unfortunately no, the role assignment is based on the order of joining the HIT. 
 
 ### What are you using this data for?
-We will be using this data to test machine learning models. These models have managed to mostly solve existing datasets of this type and so with your help, we're hoping to make a dataset that's too difficult for these models to solve easily.
+We will be using this data to test AI models. These models have managed to mostly solve existing datasets of this type and so with your help, we're hoping to make a dataset that's too difficult for these models to solve easily.
 
 ### Who are you?
-We are busy graduate students with the Bowman Group, a subgroup of the ML<sup>2</sup> group at New York University Center for Data Science. We are also affiliated with the NYU Departments of Data Science, Computer Science, and Linguistics.
+We are busy graduate students with the Bowman Group, a subgroup of the ML<sup>2</sup> group at New York University Center for Data Science. We are also affiliated with the NYU Departments of Computer Science, and Linguistics.
