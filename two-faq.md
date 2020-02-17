@@ -7,7 +7,7 @@ Thanks for doing our HITs! With your help, we think we'll be able to build some 
 We do not have a strict definition of creative. Clever and interesting claims are considered creative.
 
 ### What do you mean by "non-trivial kinds of inference"?
-A claim that requires non-trivial infernece could be soemthing that requires a few steps of deduction to come to the correct label.
+A claim that requires non-trivial infernece could be soemthing that requires a few steps of reasoning to come to the correct label.
 
 ### When is a claim "Invalid"?
 If the claim does not fit the label or if is completely unrelated to the prompt, it is considered invalid.
