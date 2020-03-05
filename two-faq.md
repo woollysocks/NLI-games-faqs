@@ -2,7 +2,6 @@
 
 Thanks for doing our HITs! With your help, we think we'll be able to build some pretty exciting technologies to help computers better understand human language.
 
-
 ### What do you mean by creative?
 We do not have a strict definition of creative. Clever and interesting claims are considered creative.
 
@@ -15,8 +14,8 @@ If the claim does not fit the label or if is completely unrelated to the prompt,
 ### How do I rank a claim if it is "Invalid"?
 If one of 2 claims is invalid, rank it lower. If both are invalid, still do try to rank the sentences according to creativity.
 
-### Can I chose the same role for multiple HITs?
-Unfortunately no, the role assignment is based on the order of joining the HIT. 
+### When do I get the bonuses?
+Adding bonuses isn't automatic so we will add bonuses when we approve the HITs. So you'll have the bonuses 1-2 days after all HITs are completed. 
 
 ### What are you using this data for?
 We will be using this data to test AI models. These models have managed to mostly solve existing datasets of this type and so with your help, we're hoping to make a dataset that's too difficult for these models to solve easily.
